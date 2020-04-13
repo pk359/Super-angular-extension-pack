@@ -1,29 +1,3 @@
 # EXTENSIONS
 
-- Angular.ng-template
-- cyrilletuzi.angular-schematics
-- dbaeumer.vscode-eslint
-- doggy8088.angular-extension-pack
-- donjayamanne.githistory
-- EditorConfig.EditorConfig
-- esbenp.prettier-vscode
-- formulahendry.auto-rename-tag
-- Gruntfuggly.todo-tree
-- infinity1207.angular2-switcher
-- joelday.docthis
-- johnpapa.Angular2
-- krizzdewizz.refactorix
-- MariusAlchimavicius.json-to-ts
-- Mikael.Angular-BeastCode
-- mkaufman.HTMLHint
-- ms-vscode.typescript-javascript-grammar
-- ms-vscode.vscode-typescript-tslint-plugin
-- nhoizey.gremlins
-- quicktype.quicktype
-- streetsidesoftware.code-spell-checker
-- stringham.move-ts
-- stylelint.vscode-stylelint
-- vscode-icons-team.vscode-icons
-- wayou.vscode-todo-highlight
-- xabikos.JavaScriptSnippets
-- eamodio.gitlen
+you can view the listed extension in package.json
