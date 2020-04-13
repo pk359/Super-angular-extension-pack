@@ -1,0 +1,52 @@
+{
+  "name": "angular-plugins",
+  "displayName": "Best vscode plugins for angular.",
+  "description": "All the essential plugins that you will ever need to write best quality angular code. ",
+  "version": "2.0.3",
+  "publisher": "ptzyvu2tw7luadmbp254iipfbbsyadnrk44jbxcnmejduzd2lc6q",
+  "engines": {
+    "vscode": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pk359/Super-angular-extension-pack.git"
+  },
+  "icon": "images/extension-pack.png",
+  "categories": [
+    "Extension Packs",
+    "Programming Languages",
+    "Snippets",
+    "Linters",
+    "Debuggers",
+    "Formatters"
+  ],
+  "extensionPack": [
+    "Angular.ng-template",
+    "cyrilletuzi.angular-schematics",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "joelday.docthis",
+    "johnpapa.Angular2",
+    "krizzdewizz.refactorix",
+    "Mikael.Angular-BeastCode",
+    "mkaufman.HTMLHint",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "nhoizey.gremlins",
+    "quicktype.quicktype",
+    "streetsidesoftware.code-spell-checker",
+    "stringham.move-ts",
+    "stylelint.vscode-stylelint",
+    "vscode-icons-team.vscode-icons",
+    "wayou.vscode-todo-highlight",
+    "Gruntfuggly.todo-tree",
+    "eamodio.gitlens"
+  ],
+  "devDependencies": {
+    "generator-code": "^1.2.12",
+    "ts-loader": "^6.2.2",
+    "vsce": "^1.75.0",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "yo": "^3.1.1"
+  }
+}
