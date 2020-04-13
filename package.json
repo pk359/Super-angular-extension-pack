@@ -2,7 +2,7 @@
   "name": "angular-plugins",
   "displayName": "Best vscode plugins for angular.",
   "description": "All the essential plugins that you will ever need to write best quality angular code. ",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "publisher": "prem-kumar",
   "engines": {
     "vscode": "^1.10.0"
