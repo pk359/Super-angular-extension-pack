@@ -1,3 +1,21 @@
-# EXTENSIONS
+# By downloading this extension pack, it installs below extensions. 
 
-you can view the listed extension in package.json
+- Angular.ng-template
+- cyrilletuzi.angular-schematics
+- esbenp.prettier-vscode
+- formulahendry.auto-rename-tag
+- joelday.docthis
+- johnpapa.Angular2
+- krizzdewizz.refactorix
+- Mikael.Angular-BeastCode
+- mkaufman.HTMLHint
+- ms-vscode.vscode-typescript-tslint-plugin
+- nhoizey.gremlins
+- quicktype.quicktype
+- streetsidesoftware.code-spell-checker
+- stringham.move-ts
+- stylelint.vscode-stylelint
+- vscode-icons-team.vscode-icons
+- wayou.vscode-todo-highlight
+- Gruntfuggly.todo-tree
+- eamodio.gitlen
